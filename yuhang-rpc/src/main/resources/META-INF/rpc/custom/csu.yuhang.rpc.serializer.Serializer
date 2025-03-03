@@ -1,0 +1,2 @@
+jdk=csu.yuhang.rpc.serializer.JdkSerializer
+hessian=csu.yuhang.rpc.serializer.HessianSerializer

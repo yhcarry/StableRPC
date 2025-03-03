@@ -1,0 +1,3 @@
+roundRobin=csu.yuhang.rpc.loadbalancer.RoundRobinLoadBalancer
+random=csu.yuhang.rpc.loadbalancer.RandomLoadBalancer
+consistentHash=csu.yuhang.rpc.loadbalancer.ConsistentHashLoadBalancer

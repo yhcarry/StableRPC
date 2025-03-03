@@ -1,0 +1,2 @@
+json=csu.yuhang.rpc.serializer.JsonSerializer
+kryo=csu.yuhang.rpc.serializer.KryoSerializer
